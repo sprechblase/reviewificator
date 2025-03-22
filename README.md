@@ -5,13 +5,13 @@ Reviewificator
 <p align="center">
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/sprechbase/reviewificator?logo=github&style=flat)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sprechbase/reviewificator/main?logo=git&logoColor=white&style=flat)
-![License](https://img.shields.io/github/license/sprechbase/reviewificator?logoColor=white&style=flat)
+![Stars](https://img.shields.io/github/stars/sprechblase/reviewificator?logo=github&style=flat)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sprechblase/reviewificator/main?logo=git&logoColor=white&style=flat)
+![License](https://img.shields.io/github/license/sprechblase/reviewificator?logoColor=white&style=flat)
 
 </div>
 
-![hero](https://raw.githubusercontent.com/sprechbase/reviewificator/main/assets/images/preview.png)
+![hero](https://raw.githubusercontent.com/sprechblase/reviewificator/main/assets/images/preview.png)
 
 </p>
 
