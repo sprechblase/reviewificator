@@ -130,12 +130,13 @@ body {
 
 .grid-object-1 {
   color: #f0f0f0;
-  border: 2px solid #84856e;
+  border: 1px solid #84856e;
   border-radius: 10px;
   max-width: 100%;
   min-height: 320px;
   width: 600px;
   background: rgba(100, 80, 40, 0.35);
+  box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 .grid-object-content {
@@ -185,7 +186,7 @@ body {
   padding: 11px;
   font-size: 18.8px;
   border-radius: 13px;
-  border: 2px solid #84856e;
+  border: 1px solid #84856e;
   max-width: 70%;
   width: 500px;
 }
@@ -212,7 +213,7 @@ body {
   .rating-item {
     cursor: pointer;
     font-size: 42px;
-    color: #f0f0f0;
+    color: rgba(255, 255, 255, 0.75);
     margin-inline: 2px;
   }
 }
@@ -249,13 +250,13 @@ body {
 
 .text-b {
   font-size: 21.5px;
-  color: #8a8884;
+  color: rgba(211, 209, 206, 0.35);
   white-space: pre-line;
 }
 
 .text-c {
   font-size: 15px;
-  color: #8a8884;
+  color: rgba(211, 209, 206, 0.35);
 }
 
 .text-prevent-select {
@@ -292,6 +293,7 @@ footer button {
   padding-left: 15px;
   padding-right: 15px;
   margin: 8px;
+  margin-top: 16px;
   border: 1px solid #84856e;
   border-radius: 8px;
   font-size: 25px;
